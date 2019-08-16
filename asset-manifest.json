@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.bab3603e.chunk.css",
-    "main.js": "/static/js/main.11519729.chunk.js",
-    "runtime~main.js": "/static/js/runtime~main.88af4e14.js",
-    "static/css/2.4d7ad6ac.chunk.css": "/static/css/2.4d7ad6ac.chunk.css",
-    "static/js/2.83fa47c2.chunk.js": "/static/js/2.83fa47c2.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.de5d490739cac5e43c4e4c6ec9a03820.js": "/precache-manifest.de5d490739cac5e43c4e4c6ec9a03820.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/tax-calc/static/css/main.d60fed39.chunk.css",
+    "main.js": "/tax-calc/static/js/main.9ed0194a.chunk.js",
+    "runtime~main.js": "/tax-calc/static/js/runtime~main.0b98fbfb.js",
+    "static/css/2.93a59a08.chunk.css": "/tax-calc/static/css/2.93a59a08.chunk.css",
+    "static/js/2.a5ecb99c.chunk.js": "/tax-calc/static/js/2.a5ecb99c.chunk.js",
+    "index.html": "/tax-calc/index.html",
+    "precache-manifest.cb95877fb16db9a60bf130362eb1da80.js": "/tax-calc/precache-manifest.cb95877fb16db9a60bf130362eb1da80.js",
+    "service-worker.js": "/tax-calc/service-worker.js",
+    "static/media/semantic.min.css": "/tax-calc/static/media/outline-icons.ef60a4f6.woff"
   }
 }
