@@ -1,24 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.11aa4741.chunk.css",
-    "main.js": "/static/js/main.81bd7c1a.chunk.js",
-    "main.js.map": "/static/js/main.81bd7c1a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.67b55652.js",
-    "runtime-main.js.map": "/static/js/runtime-main.67b55652.js.map",
-    "static/css/2.bad41965.chunk.css": "/static/css/2.bad41965.chunk.css",
-    "static/js/2.0a971f14.chunk.js": "/static/js/2.0a971f14.chunk.js",
-    "static/js/2.0a971f14.chunk.js.map": "/static/js/2.0a971f14.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.bad41965.chunk.css.map": "/static/css/2.bad41965.chunk.css.map",
-    "static/css/main.11aa4741.chunk.css.map": "/static/css/main.11aa4741.chunk.css.map",
-    "static/js/2.0a971f14.chunk.js.LICENSE.txt": "/static/js/2.0a971f14.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff"
+    "main.css": "/tax-calc/static/css/main.d60fed39.chunk.css",
+    "main.js": "/tax-calc/static/js/main.ae5394f2.chunk.js",
+    "runtime-main.js": "/tax-calc/static/js/runtime-main.746d27ca.js",
+    "static/css/2.109ee6ad.chunk.css": "/tax-calc/static/css/2.109ee6ad.chunk.css",
+    "static/js/2.0a971f14.chunk.js": "/tax-calc/static/js/2.0a971f14.chunk.js",
+    "index.html": "/tax-calc/index.html",
+    "static/js/2.0a971f14.chunk.js.LICENSE.txt": "/tax-calc/static/js/2.0a971f14.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/tax-calc/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.67b55652.js",
-    "static/css/2.bad41965.chunk.css",
+    "static/js/runtime-main.746d27ca.js",
+    "static/css/2.109ee6ad.chunk.css",
     "static/js/2.0a971f14.chunk.js",
-    "static/css/main.11aa4741.chunk.css",
-    "static/js/main.81bd7c1a.chunk.js"
+    "static/css/main.d60fed39.chunk.css",
+    "static/js/main.ae5394f2.chunk.js"
   ]
 }
