@@ -1,0 +1,38 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="32" height="32" rx="6" fill="url(#bg)"/>
+  
+  <!-- Calculator grid -->
+  <rect x="6" y="6" width="20" height="20" rx="2" fill="none" stroke="white" stroke-width="1.5"/>
+  
+  <!-- Screen area -->
+  <rect x="8" y="8" width="16" height="4" rx="1" fill="white" opacity="0.9"/>
+  
+  <!-- Button grid -->
+  <!-- Row 1 -->
+  <circle cx="10" cy="16" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="16" cy="16" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="22" cy="16" r="1.5" fill="white" opacity="0.8"/>
+  
+  <!-- Row 2 -->
+  <circle cx="10" cy="20" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="16" cy="20" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="22" cy="20" r="1.5" fill="white" opacity="0.8"/>
+  
+  <!-- Row 3 -->
+  <circle cx="10" cy="24" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="16" cy="24" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="22" cy="24" r="1.5" fill="white" opacity="0.8"/>
+  
+  <!-- Yuan symbol (¥) overlay -->
+  <g transform="translate(13, 9)" opacity="0.9">
+    <path d="M-2 -1 L2 3 L6 -1 M2 3 L2 7 M0 5 L4 5" stroke="white" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
